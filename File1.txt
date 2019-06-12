@@ -1,13 +1,13 @@
 Orig Line 1  Feature A1  (fix)
 Orig Line 2
 Orig Line 3
-Orig Line 4   Feature B1
+Orig Line 4   Feature B1   Feature D1
 Orig Line 5
 Orig Line 6
 Orig Line 7
 Orig Line 8
 Orig Line 9
-Orig Line 10          
+Orig Line 10    Feature D2      
 Orig Line 11
 Orig Line 12
 Orig Line 13
