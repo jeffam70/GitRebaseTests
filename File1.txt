@@ -1,4 +1,4 @@
-Orig Line 1  
+Orig Line 1  Feature A1  (fix)
 Orig Line 2
 Orig Line 3
 Orig Line 4
@@ -17,4 +17,4 @@ Orig Line 16
 Orig Line 17
 Orig Line 18
 Orig Line 19
-Orig Line 20  
+Orig Line 20  Feature A2 
