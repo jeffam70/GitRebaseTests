@@ -14,7 +14,7 @@ Orig Line 13
 Orig Line 14
 Orig Line 15
 Orig Line 16
-Orig Line 17  Feature B2
+Orig Line 17  Feature B2  (fix)
 Orig Line 18
 Orig Line 19
 Orig Line 20  
